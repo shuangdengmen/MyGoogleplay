@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gxz.pagerslidingtabstrip:pagerslidingtab-lib:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca96ba73e767b5b8e8795321852552c/pagerslidingtab-lib-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca96ba73e767b5b8e8795321852552c/pagerslidingtab-lib-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gxz.pagerslidingtabstrip/pagerslidingtab-lib/1.0/b7c7d20ee0824077e8963479481fa3646ebd401/pagerslidingtab-lib-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gxz.pagerslidingtabstrip/pagerslidingtab-lib/1.0/3ad720875395e8ec5a1631e45266b714a0305265/pagerslidingtab-lib-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

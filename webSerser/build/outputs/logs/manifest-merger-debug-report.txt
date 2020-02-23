@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c52dad6ef5e1c41cb66cc53c8b27d6b8\animated-vector-drawable-24.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\674e97f3b649fbd8b48b282f602b5aaa\support-vector-drawable-24.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\530e8279f4d2e5e2760c5c3e2d6ab758\support-v4-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:rxpermissions] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\64f037d76099acbcd98971027fc80a94\rxbinding-2.1.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0079799243262e41aa693b5316483d58\support-fragment-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\817a621ac70f3dcc605348d64e14e659\support-core-utils-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\37829ac6d6fefb6b771a5ee0702dcdb4\support-media-compat-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49b92634baa7b96b6cd7ec6f2d292a13\support-core-ui-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7eb12e4b29dbb41f63b918bd30694db9\support-compat-24.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a2c4e62426f6cd8f82023e0fda72da5\rxandroid-2.0.0\AndroidManifest.xml:15:1-21:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:16:22-76
+application
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:21:5-36:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c52dad6ef5e1c41cb66cc53c8b27d6b8\animated-vector-drawable-24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c52dad6ef5e1c41cb66cc53c8b27d6b8\animated-vector-drawable-24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\674e97f3b649fbd8b48b282f602b5aaa\support-vector-drawable-24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\674e97f3b649fbd8b48b282f602b5aaa\support-vector-drawable-24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\530e8279f4d2e5e2760c5c3e2d6ab758\support-v4-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\530e8279f4d2e5e2760c5c3e2d6ab758\support-v4-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [:rxpermissions] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:rxpermissions] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0079799243262e41aa693b5316483d58\support-fragment-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0079799243262e41aa693b5316483d58\support-fragment-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\817a621ac70f3dcc605348d64e14e659\support-core-utils-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\817a621ac70f3dcc605348d64e14e659\support-core-utils-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\37829ac6d6fefb6b771a5ee0702dcdb4\support-media-compat-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\37829ac6d6fefb6b771a5ee0702dcdb4\support-media-compat-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49b92634baa7b96b6cd7ec6f2d292a13\support-core-ui-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49b92634baa7b96b6cd7ec6f2d292a13\support-core-ui-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7eb12e4b29dbb41f63b918bd30694db9\support-compat-24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7eb12e4b29dbb41f63b918bd30694db9\support-compat-24.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:22:9-45
+activity#com.google.server.MainActivity
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:25:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:30:27-74
+service#com.google.server.WebService
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:34:9-35:19
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml:34:18-61
+uses-sdk
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c52dad6ef5e1c41cb66cc53c8b27d6b8\animated-vector-drawable-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c52dad6ef5e1c41cb66cc53c8b27d6b8\animated-vector-drawable-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\674e97f3b649fbd8b48b282f602b5aaa\support-vector-drawable-24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\674e97f3b649fbd8b48b282f602b5aaa\support-vector-drawable-24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\530e8279f4d2e5e2760c5c3e2d6ab758\support-v4-24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\530e8279f4d2e5e2760c5c3e2d6ab758\support-v4-24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [:rxpermissions] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:rxpermissions] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\64f037d76099acbcd98971027fc80a94\rxbinding-2.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\64f037d76099acbcd98971027fc80a94\rxbinding-2.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0079799243262e41aa693b5316483d58\support-fragment-24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0079799243262e41aa693b5316483d58\support-fragment-24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\817a621ac70f3dcc605348d64e14e659\support-core-utils-24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\817a621ac70f3dcc605348d64e14e659\support-core-utils-24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\37829ac6d6fefb6b771a5ee0702dcdb4\support-media-compat-24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\37829ac6d6fefb6b771a5ee0702dcdb4\support-media-compat-24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49b92634baa7b96b6cd7ec6f2d292a13\support-core-ui-24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49b92634baa7b96b6cd7ec6f2d292a13\support-core-ui-24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7eb12e4b29dbb41f63b918bd30694db9\support-compat-24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7eb12e4b29dbb41f63b918bd30694db9\support-compat-24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a2c4e62426f6cd8f82023e0fda72da5\rxandroid-2.0.0\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a2c4e62426f6cd8f82023e0fda72da5\rxandroid-2.0.0\AndroidManifest.xml:19:5-43
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6a46d32c029d2f9f3444bd37b08b008\appcompat-v7-24.0.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\webSerser\src\main\AndroidManifest.xml

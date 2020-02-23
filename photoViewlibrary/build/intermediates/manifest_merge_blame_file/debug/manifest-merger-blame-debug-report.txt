@@ -1,0 +1,14 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.senab.photoview"
+4    android:versionCode="122"
+5    android:versionName="1.2.2-SHAPSHOT" >
+6
+7    <application
+7-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\src\main\AndroidManifest.xml:7:5-82
+8        android:allowBackup="true"
+8-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\src\main\AndroidManifest.xml:7:53-79
+9        android:hardwareAccelerated="true" />
+9-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\src\main\AndroidManifest.xml:7:18-52
+10
+11</manifest>

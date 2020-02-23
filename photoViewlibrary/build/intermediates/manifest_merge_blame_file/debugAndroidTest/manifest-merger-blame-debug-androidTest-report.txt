@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.senab.photoview.test" >
+4
+5    <uses-sdk
+5-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:5:5-72
+6        android:minSdkVersion="1"
+6-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:5:15-40
+7        android:targetSdkVersion="1" />
+7-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:5:41-69
+8
+9    <instrumentation
+9-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:11:5-15:76
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:13:22-53
+13        android:label="Tests for uk.co.senab.photoview.test"
+13-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:15:22-74
+14        android:targetPackage="uk.co.senab.photoview.test" />
+14-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:12:22-72
+15
+16    <application
+16-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:7:5-9:19
+17        android:allowBackup="true"
+17-->[__tested_artifact__::photoViewlibrary] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-35
+18        android:debuggable="true"
+18-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:7:18-43
+19        android:hardwareAccelerated="true" >
+19-->[__tested_artifact__::photoViewlibrary] C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-43
+20        <uses-library android:name="android.test.runner" />
+20-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:8:9-60
+20-->C:\Users\Administrator\AndroidStudioProjects\Test_MyApplication\photoViewlibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7989099258137250284.xml:8:23-57
+21    </application>
+22
+23</manifest>
