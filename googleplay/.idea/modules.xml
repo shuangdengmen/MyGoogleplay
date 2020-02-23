@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Test_My Application.iml" filepath="$PROJECT_DIR$/../Test_My Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googlePlay90/googlePlay90.iml" filepath="$PROJECT_DIR$/../googlePlay90/googlePlay90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleplay.iml" filepath="$PROJECT_DIR$/googleplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysliding/mysliding.iml" filepath="$PROJECT_DIR$/../mysliding/mysliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytaggole/mytaggole.iml" filepath="$PROJECT_DIR$/../mytaggole/mytaggole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pagerSlidingTablibrary/pagerSlidingTablibrary.iml" filepath="$PROJECT_DIR$/../pagerSlidingTablibrary/pagerSlidingTablibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photoViewlibrary/photoViewlibrary.iml" filepath="$PROJECT_DIR$/../photoViewlibrary/photoViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lib/rxpermissions.iml" filepath="$PROJECT_DIR$/../lib/rxpermissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../textinput/textinput.iml" filepath="$PROJECT_DIR$/../textinput/textinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webSerser/webSerser.iml" filepath="$PROJECT_DIR$/../webSerser/webSerser.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+include ':Ion', ':sample', ':lib', ':mymvp', ':myzxing'
+rootProject.name='HttpAndImageTest'
+include ':zxingdemo'

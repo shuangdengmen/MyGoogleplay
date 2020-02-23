@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:id="@+id/tv_clipTextView"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="#ff0000"
+        android:outlineProvider="bounds"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_selector"
+        android:clickable="true"
+        android:focusable="false"
+        />
+
+    <ImageView
+        android:id="@+id/iv_palette"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@mipmap/palette"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:id="@+id/tv_vibrant"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="波纹的效果"
+        />
+
+    <TextView
+        android:id="@+id/tv_animator"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#ff0000"
+
+        />
+
+    <Button
+        android:id="@+id/tv_stateAnimator"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:stateListAnimator="@drawable/state_anim"
+        />
+
+    <Button
+        android:id="@+id/btn_okhttp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打开浏览器"
+        />
+
+</LinearLayout>

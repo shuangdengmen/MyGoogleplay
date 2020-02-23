@@ -1,0 +1,4 @@
+include ':app', ':textinput', ':googleplay', ':webSerser', ':lib', ':googlePlay90', ':pagerSlidingTablibrary', ':photoViewlibrary', ':mytaggole', ':mysliding'
+rootProject.name='Test_My Application'
+project(':lib').name = 'rxpermissions'
+include ':library'
